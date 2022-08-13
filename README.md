@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/bgregi/frontend-mentor-1](https://github.com/bgregi/frontend-mentor-1)
-- Live Site URL: [https://bgregi.github.io/frontend-mentor-1/](https://bgregi.github.io/frontend-mentor-1/)
+- Solution URL: [https://github.com/bgregi/fm-stats-preview-card](https://github.com/bgregi/fm-stats-preview-card)
+- Live Site URL: [https://bgregi.github.io/fm-stats-preview-card](https://bgregi.github.io/fm-stats-preview-card)
 
 ## My process
 
